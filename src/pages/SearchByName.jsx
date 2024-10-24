@@ -36,6 +36,7 @@ const SearchByName = () => {
     key.name.toLowerCase().includes(ename.toLowerCase())
   );
 
+  
   const ans =
     filteredData.length > 0 ? (
       filteredData.map((key) => (
