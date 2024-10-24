@@ -1,0 +1,56 @@
+/* .container{
+    text-align: center;
+    border: 2px solid black;
+    width: 50%;
+    
+} */
+body {
+    background-color: #F5F5F5;
+
+}
+
+.InsertContainer {
+    margin-left: 400px;
+    align-items: center;
+    margin-top: 20px;
+    max-width: 600px;
+    background-color:#F5F5F5 ;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+h1 {
+    text-align: center;
+    color: #007bff;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.form-control {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.btn-primary {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 8px;
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.form-text {
+    color: #6c757d;
+}
+

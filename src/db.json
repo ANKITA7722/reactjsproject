@@ -1,74 +1,39 @@
 {
   "employees": [
     {
-      "id": "121",
-      "empno": "1",
-      "name": "ankita",
-      "email": "bobdeankita@gmail.com",
-      "contact": 12345667
+      "id": "81d6",
+      "empno": "101",
+      "name": "Ankita",
+      "email": "ankita@gmail.com",
+      "contact": "123456577"
     },
     {
-      "id": "121",
-      "empno": "2",
-      "name": "ankita",
-      "email": "bobdeankita@gmail.com",
-      "contact": 12345667
+      "id": "f85c",
+      "empno": "102",
+      "name": "Ankita",
+      "email": "ankita@gmail.com",
+      "contact": "123456577"
     },
     {
-      "id": "121",
-      "empno": "3",
-      "name": "ankita",
-      "email": "bobdeankita@gmail.com",
-      "contact": 12345667
+      "id": "6318",
+      "empno": "103",
+      "name": "Megha",
+      "email": "megha@gmail.com",
+      "contact": "1223456767"
     },
     {
-      "id": "121",
-      "empno": "1",
-      "name": "ankita",
-      "email": "bobdeankita@gmail.com",
-      "contact": 12345667
+      "id": "9360",
+      "empno": "106",
+      "name": "rahul",
+      "email": "rahul264@gmail.com",
+      "contact": "1234546678"
     },
     {
-      "id": "1f10"
-    },
-    {
-      "id": "7eb9"
-    },
-    {
-      "id": "6e43"
-    },
-    {
-      "id": "b716"
-    },
-    {
-      "id": "43a8"
-    },
-    {
-      "id": "b3f2"
-    },
-    {
-      "id": "c419"
-    },
-    {
-      "id": "7ea1"
-    },
-    {
-      "id": "856d"
-    },
-    {
-      "id": "88b9"
-    },
-    {
-      "id": "5328"
-    },
-    {
-      "id": "82dc"
-    },
-    {
-      "id": "8aa4"
-    },
-    {
-      "id": "1dfc"
+      "id": "95dc",
+      "empno": "106",
+      "name": "rahul",
+      "email": "rahul264@gmail.com",
+      "contact": "1234546678"
     }
   ]
 }
